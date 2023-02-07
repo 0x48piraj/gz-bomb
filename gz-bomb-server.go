@@ -16,7 +16,7 @@ import (
 /* defaults and configs */
 const (
 	default_file = "bomb.gz"
-	default_port = 80
+	default_port = 31337
 	default_size = 10240
 )
 
